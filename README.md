@@ -11,35 +11,23 @@
 
 <h3 align="center">A student majoring in Informatics at Diponegoro University in 2023. Happy to explore and learn many new things. Have good verbal and non-verbal communication skills. Have good self-management skills. Started to get interested in programming in high school and began to explore this field in college. Always discipline and take full responsibility for the tasks assigned.</h3>
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sulhan-fuadi-185143283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandaarya" height="30" width="40" /></a>
-</p> -->
-
 ---
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sulhanfuadi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="sulhanfuadi's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sulhanfuadi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="sulhanfuadi's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sulhanfuadi&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" alt="sulhanfuadi's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sulhanfuadi&langs_count=8&layout=compact&hide_border=true&theme=algolia" alt="sulhanfuadi's Most Used Language">
 | ------------- | ------------- |  
 
-| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulhanfuadi&hide_border=true&theme=radical">
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulhanfuadi&hide_border=true&theme=algolia">
 | ------------- |
 
-<!-- | [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanfuadi&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@sulhanfuadi)
-| ------------- | -->
+| <img align="center" width="640px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulhanfuadi&theme=algolia" alt="Sulhan's GitHub Contribution">
+| ------------- |
 
 ---
 
-<!-- ![sulhanfuadi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sulhanfuadi&hide_border=true&theme=redical) -->
-
 ## 🤝🏻 Connect with Me!
-<!-- [![Email: sulhanfuadi@gmail.com](https://img.shields.io/badge/-sulhanfuadi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sulhanfuadi@gmail.com) -->
-[![LinkedIn: Sulhan Fuadi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulhan-fuadi-185143283/)](https://www.linkedin.com/in/sulhan-fuadi-185143283/)&nbsp;
-[![Instagram: Follow sulhanfuadi](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sulhanfuadi?igsh=dzU0bzhlemtzc3N4)&nbsp;
-<!-- [![Telegram: sulhanfuadi](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/sulhanfuadi)](https://t.me/sulhanfuadi)&nbsp;
-[![Linktree: sulhanfuadi](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/sulhanfuadi)](https://linktr.ee/sulhanfuadi)&nbsp;
-[![Twitter: Follow @sulhanfuadi](https://img.shields.io/twitter/follow/sulhanfuadi?style=social)](https://twitter.com/sulhanfuadi) -->
+<a href="https://www.linkedin.com/in/sulhan-fuadi-185143283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandaarya" height="30" width="40" /></a>
 
 ---
 
