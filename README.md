@@ -31,4 +31,4 @@
 
 ---
 
-<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+![Snake animation](https://github.com/{{sulhanfuadi}}/{{sulhanfuadi}}/blob/output/github-contribution-grid-snake.svg)
