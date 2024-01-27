@@ -7,12 +7,16 @@
 [![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@sulhanfuadi)&nbsp;
 [![GitHub: sulhanfuadi](https://img.shields.io/github/followers/sulhanfuadi?label=follow&style=social)](https://github.com/sulhanfuadi)&nbsp;
 
+---
+
 <h3 align="center">A student majoring in Informatics at Diponegoro University in 2023. Happy to explore and learn many new things. Have good verbal and non-verbal communication skills. Have good self-management skills. Started to get interested in programming in high school and began to explore this field in college. Always discipline and take full responsibility for the tasks assigned.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sulhan-fuadi-185143283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandaarya" height="30" width="40" /></a>
 </p> -->
+
+---
 
 ## 📈 Github Stats
   
