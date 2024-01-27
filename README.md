@@ -4,8 +4,7 @@
 
 ![version: 27.01.2024](https://img.shields.io/badge/version-27.01.2024-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=sulhanfuadi&style=flat&label=visitors)&nbsp;
-<!-- [![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@sulhanfuadi)&nbsp; -->
-&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@sulhanfuadi)&nbsp;
 [![GitHub: sulhanfuadi](https://img.shields.io/github/followers/sulhanfuadi?label=follow&style=social)](https://github.com/sulhanfuadi)&nbsp;
 
 <h3 align="center">A student majoring in Informatics at Diponegoro University in 2023. Happy to explore and learn many new things. Have good verbal and non-verbal communication skills. Have good self-management skills. Started to get interested in programming in high school and began to explore this field in college. Always discipline and take full responsibility for the tasks assigned.</h3>
@@ -23,8 +22,8 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulhanfuadi&hide_border=true&theme=radical">
 | ------------- |
 
-<!-- | [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanfuadi&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@sulhanfuadi) -->
-| ------------- |
+<!-- | [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanfuadi&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@sulhanfuadi)
+| ------------- | -->
 
 ---
 
@@ -37,6 +36,7 @@
 <!-- [![Telegram: sulhanfuadi](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/sulhanfuadi)](https://t.me/sulhanfuadi)&nbsp;
 [![Linktree: sulhanfuadi](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/sulhanfuadi)](https://linktr.ee/sulhanfuadi)&nbsp;
 [![Twitter: Follow @sulhanfuadi](https://img.shields.io/twitter/follow/sulhanfuadi?style=social)](https://twitter.com/sulhanfuadi) -->
+
 ---
 
 <img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
