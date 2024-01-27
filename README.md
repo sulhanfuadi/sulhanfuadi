@@ -22,7 +22,7 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulhanfuadi&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanfuadi&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@sulhanfuadi)
+<!-- | [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanfuadi&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@sulhanfuadi) -->
 | ------------- |
 
 ---
@@ -31,11 +31,11 @@
 
 ## 🤝🏻 Connect with Me!
 <!-- [![Email: sulhanfuadi@gmail.com](https://img.shields.io/badge/-sulhanfuadi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sulhanfuadi@gmail.com) -->
-[![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulhanfuadi/)](https://www.linkedin.com/in/sulhanfuadi/)&nbsp;
-[![Instagram: Follow sulhanfuadi](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sulhanfuadi)&nbsp;
+[![LinkedIn: Sulhan Fuadi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulhan-fuadi-185143283/)](https://www.linkedin.com/in/sulhan-fuadi-185143283/)&nbsp;
+[![Instagram: Follow sulhanfuadi](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sulhanfuadi?igsh=dzU0bzhlemtzc3N4)&nbsp;
 <!-- [![Telegram: sulhanfuadi](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/sulhanfuadi)](https://t.me/sulhanfuadi)&nbsp;
 [![Linktree: sulhanfuadi](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/sulhanfuadi)](https://linktr.ee/sulhanfuadi)&nbsp;
 [![Twitter: Follow @sulhanfuadi](https://img.shields.io/twitter/follow/sulhanfuadi?style=social)](https://twitter.com/sulhanfuadi) -->
 ---
 
-<img align="center" src="https://github.com/sulhanfuadi/sulhanfuadi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
