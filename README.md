@@ -1,6 +1,6 @@
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://sulhanfuadi.github.io/)
 
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 ![version: 27.01.2024](https://img.shields.io/badge/version-26.12.2023-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=sulhanfuadi&style=flat&label=visitors)&nbsp;
