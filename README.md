@@ -11,4 +11,4 @@ computer science student with a track record of winning national-level business 
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-**discipline — consistency compounds into excellence**
+**resilience — every failure is a stepping stone forward**
