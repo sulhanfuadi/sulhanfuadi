@@ -49,8 +49,8 @@ jobs:
           
           echo "Today's principle: $TODAY_PRINCIPLE"
           
-          # Update README using sed
-          sed -i "s/\\*\\*.* — .*\\*\\*/\\*\\*$TODAY_PRINCIPLE\\*\\*/g" README.md
+          # Update README using sed (without bold formatting)
+          sed -i "s/.* — .*/$TODAY_PRINCIPLE/g" README.md
 
       - name: Commit and push changes
         run: |
