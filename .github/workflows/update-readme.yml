@@ -35,20 +35,8 @@ jobs:
           
           echo "Today's principle: $TODAY_PRINCIPLE"
           
-          # Create temporary file with new content
-          awk -v principle="$TODAY_PRINCIPLE" '
-          /#### principle of the day/ {
-            print
-            getline
-            print
-            getline
-            print
-            getline
-            print "**" principle "**"
-            next
-          }
-          { print }
-          ' README.md > README.md.tmp && mv README.md.tmp README.md
+          # Update README using sed
+          sed -i "s/\\*\\*.* — .*\\*\\*/\\*\\*$TODAY_PRINCIPLE\\*\\*/g" README.md
 
       - name: Commit and push changes
         run: |
