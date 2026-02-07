@@ -6,7 +6,7 @@ computer science student with a track record of winning national-level business 
 
 #### highlights
 
-**product engineer** @ lazuardy tech • **product engineer** @ lapor fsm! • **best team** @ compfest 17 • **google student ambassador** 2025 • **2nd place** mce itb 2025 • **gold medalist** ice-cinno 2024 • **bsi scholarship** awardee 2024 • **1st place** gdsc ui ui/ux 2024 • **gdsc undip capstone** winner 2023
+**product engineer** @ lazuardy tech • **product engineer** @ lapor fsm! • **best team** @ compfest 17 • **google student ambassador** 2025 • **2nd place** bcc mce itb 2025 • **gold medalist** ice-cinno 2024 • **bsi scholarship** awardee 2024 • **1st place** gdsc ui ui/ux 2024 • **gdsc undip capstone** winner 2023
 
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
