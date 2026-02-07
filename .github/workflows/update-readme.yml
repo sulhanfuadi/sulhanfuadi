@@ -20,17 +20,31 @@ jobs:
           # Get day of year
           DAY_OF_YEAR=$(date +%j | sed 's/^0*//')
           
-          # Define principles array
-          PRINCIPLES[0]="discipline — consistency compounds into excellence"
-          PRINCIPLES[1]="curiosity — never stop questioning the unknown"
-          PRINCIPLES[2]="resilience — every failure is a stepping stone forward"
-          PRINCIPLES[3]="simplicity — less but better, always"
-          PRINCIPLES[4]="ownership — take full responsibility for your craft"
-          PRINCIPLES[5]="growth — stay hungry, stay foolish"
-          PRINCIPLES[6]="impact — build what matters"
+          # Define principles array (21 principles)
+          PRINCIPLES[0]="the barbell strategy — achieve asymmetric returns by combining extreme safety with extreme risk"
+          PRINCIPLES[1]="circle of competence — success is defined by knowing what you don't know"
+          PRINCIPLES[2]="map vs territory — the map is not the territory; always test models against physical feedback"
+          PRINCIPLES[3]="evolutionary realism — reality + dreams + determination = a successful life"
+          PRINCIPLES[4]="strategic pragmatism — effectiveness is measured by survival and outcome"
+          PRINCIPLES[5]="antifragile architecture — design systems that improve from stress and volatility"
+          PRINCIPLES[6]="first principles thinking — break down problems into fundamental truths and build back up"
+          PRINCIPLES[7]="theory of constraints — a system is only as strong as its weakest link"
+          PRINCIPLES[8]="the ooda loop — observe, orient, decide, act; speed is the ultimate competitive advantage"
+          PRINCIPLES[9]="vertical progress — aim for 0 to 1, not 1 to n; create 10x better solutions"
+          PRINCIPLES[10]="skin in the game — decisions must be made by those who bear the consequences"
+          PRINCIPLES[11]="architectural simplicity — the simplest solution is usually the correct one"
+          PRINCIPLES[12]="the pareto law — 80% of outcomes result from 20% of inputs"
+          PRINCIPLES[13]="network effects — the value of a platform increases exponentially with its users"
+          PRINCIPLES[14]="chesterton's fence — never remove a fence until you understand why it was put there"
+          PRINCIPLES[15]="the lindy effect — invest in time-tested foundations rather than transient hype"
+          PRINCIPLES[16]="compound interest — all benefits in life come from compound interest"
+          PRINCIPLES[17]="high agency — the refusal to accept that a problem cannot be solved"
+          PRINCIPLES[18]="inversion — to solve a difficult problem, think about how to fail and avoid those paths"
+          PRINCIPLES[19]="systems thinking — view problems as parts of an overall system with feedback loops"
+          PRINCIPLES[20]="second-order thinking — never just ask 'what is the result?' but always ask '...and then what?'"
           
           # Get today's principle
-          INDEX=$(( (DAY_OF_YEAR - 1) % 7 ))
+          INDEX=$(( (DAY_OF_YEAR - 1) % 21 ))
           TODAY_PRINCIPLE="${PRINCIPLES[$INDEX]}"
           
           echo "Today's principle: $TODAY_PRINCIPLE"
