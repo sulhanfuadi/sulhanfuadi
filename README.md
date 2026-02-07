@@ -2,7 +2,7 @@
 
 [sulhan fuadi](https://www.linkedin.com/in/sulhanfuadi/) is an aspiring tech & business strategist. he thrives at the intersection of technology and business strategy—architecting systems, leading teams to victory in national competitions, and mentoring tech talent.
 
-computer science student with a track record of winning national-level business case competitions. expert-certified in machine learning and full-stack development.
+computer science student with a track record of winning national-level business case competitions. expert-certified in machine learning and full-stack web development.
 
 #### experiences
 
@@ -23,12 +23,9 @@ computer science student with a track record of winning national-level business 
 
 #### projects
 
-explore my work on the [repositories](https://github.com/sulhanfuadi?tab=repositories) tab. highlights include skillcopus (compfest 17 best team), lapor fsm!, and pedulicarbon.
+explore my work on the [repositories](https://github.com/sulhanfuadi?tab=repositories) tab. 
+<!-- highlights include skillcopus (compfest 17 best team), lapor fsm!, and pedulicarbon. -->
 
 #### achievements
 
 2nd place mce itb 2025 • best team compfest 17 2025 • google student ambassador 2025 • 1st place akademi business case 2025 • gold medalist ice-cinno 2024 • bsi scholarship awardee 2024 • 1st place gdsc ui ui/ux 2024 • gdsc undip capstone winner 2023
-
----
-
-<img align="center" src="https://github.com/sulhanfuadi/sulhanfuadi/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
