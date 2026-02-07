@@ -1,0 +1,59 @@
+name: Rotate Daily Principle
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate and update principle
+        run: |
+          # Get day of year
+          DAY_OF_YEAR=$(date +%j | sed 's/^0*//')
+          
+          # Define principles array
+          PRINCIPLES[0]="discipline — consistency compounds into excellence"
+          PRINCIPLES[1]="curiosity — never stop questioning the unknown"
+          PRINCIPLES[2]="resilience — every failure is a stepping stone forward"
+          PRINCIPLES[3]="simplicity — less but better, always"
+          PRINCIPLES[4]="ownership — take full responsibility for your craft"
+          PRINCIPLES[5]="growth — stay hungry, stay foolish"
+          PRINCIPLES[6]="impact — build what matters"
+          
+          # Get today's principle
+          INDEX=$(( (DAY_OF_YEAR - 1) % 7 ))
+          TODAY_PRINCIPLE="${PRINCIPLES[$INDEX]}"
+          
+          echo "Today's principle: $TODAY_PRINCIPLE"
+          
+          # Create temporary file with new content
+          awk -v principle="$TODAY_PRINCIPLE" '
+          /#### principle of the day/ {
+            print
+            getline
+            print
+            getline
+            print
+            getline
+            print "**" principle "**"
+            next
+          }
+          { print }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: rotate daily principle [$(date +%Y-%m-%d)]"
+          git push
