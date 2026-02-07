@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-discipline — consistency compounds into excellence
+compound interest — all benefits in life come from compound interest
