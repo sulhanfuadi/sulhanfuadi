@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-high agency — the refusal to accept that a problem cannot be solved
+inversion — to solve a difficult problem, think about how to fail and avoid those paths
