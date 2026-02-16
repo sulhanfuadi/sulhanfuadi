@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-evolutionary realism — reality + dreams + determination = a successful life
+strategic pragmatism — effectiveness is measured by survival and outcome
