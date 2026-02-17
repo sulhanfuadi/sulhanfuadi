@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-strategic pragmatism — effectiveness is measured by survival and outcome
+antifragile architecture — design systems that improve from stress and volatility
