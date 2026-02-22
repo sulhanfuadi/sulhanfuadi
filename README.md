@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-vertical progress — aim for 0 to 1, not 1 to n; create 10x better solutions
+skin in the game — decisions must be made by those who bear the consequences
