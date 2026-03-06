@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-the barbell strategy — achieve asymmetric returns by combining extreme safety with extreme risk
+circle of competence — success is defined by knowing what you don't know
