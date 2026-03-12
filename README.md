@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-first principles thinking — break down problems into fundamental truths and build back up
+theory of constraints — a system is only as strong as its weakest link
