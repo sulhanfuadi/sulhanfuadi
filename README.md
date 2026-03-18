@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-the pareto law — 80% of outcomes result from 20% of inputs
+network effects — the value of a platform increases exponentially with its users
