@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-architectural simplicity — the simplest solution is usually the correct one
+the pareto law — 80% of outcomes result from 20% of inputs
