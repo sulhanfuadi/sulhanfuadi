@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-network effects — the value of a platform increases exponentially with its users
+chesterton's fence — never remove a fence until you understand why it was put there
