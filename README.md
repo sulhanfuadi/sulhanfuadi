@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-antifragile architecture — design systems that improve from stress and volatility
+first principles thinking — break down problems into fundamental truths and build back up
