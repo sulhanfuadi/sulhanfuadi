@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-skin in the game — decisions must be made by those who bear the consequences
+architectural simplicity — the simplest solution is usually the correct one
