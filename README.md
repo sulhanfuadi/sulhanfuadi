@@ -1,6 +1,6 @@
 ![han's cover](https://raw.githubusercontent.com/sulhanfuadi/sulhanfuadi/main/assets/feynman%20-%201080x360.jpeg)
 
-[sulhanfuadi](sulhanfuadi.com) is an aspiring tech & business strategist. he thrives at the intersection of technology and business strategy—architecting systems.
+[sulhanfuadi](https://www.sulhanfuadi.com) is an aspiring tech & business strategist. he thrives at the intersection of technology and business strategy—architecting systems.
 
 computer science student with a track record of winning national-level tech & business case competitions. expert-certified in machine learning and full-stack web development.
 
