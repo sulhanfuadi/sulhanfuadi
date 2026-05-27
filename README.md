@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-systems thinking — view problems as parts of an overall system with feedback loops
+second-order thinking — never just ask 'what is the result?' but always ask '...and then what?'
