@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-second-order thinking — never just ask 'what is the result?' but always ask '...and then what?'
+the barbell strategy — achieve asymmetric returns by combining extreme safety with extreme risk
