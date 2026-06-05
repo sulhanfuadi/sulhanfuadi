@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-theory of constraints — a system is only as strong as its weakest link
+the ooda loop — observe, orient, decide, act; speed is the ultimate competitive advantage
