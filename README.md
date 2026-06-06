@@ -10,4 +10,4 @@ product engineer @ lazuardy tech • product engineer @ lapor fsm! • best team
 *explore more on [linkedin](https://www.linkedin.com/in/sulhanfuadi)*
 
 #### principle of the day
-the ooda loop — observe, orient, decide, act; speed is the ultimate competitive advantage
+vertical progress — aim for 0 to 1, not 1 to n; create 10x better solutions
