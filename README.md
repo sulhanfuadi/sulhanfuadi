@@ -1,6 +1,6 @@
 ![han's cover](https://raw.githubusercontent.com/sulhanfuadi/sulhanfuadi/main/assets/feynman%20-%201080x360.jpeg)
 
-[Sulhan](https://www.sulhanfuadi.com) here. I study computer science, build a company on the side, and love making things people actually want. Currently, I'm building Aksa as Co-founder & CTO.
+[Sulhan](https://www.sulhanfuadi.com) here. I study computer science, build a company on the side, and love making things people actually want. Currently, I'm building [Aksa](https://aksaspace.com/) as Co-founder & CTO.
 
 I've moved across very different domains—from competing as a childhood athlete to winning national tech & business competitions, and pushing through a severe accident. The pattern is always the same: I go all in on the things I care about. Through all of it, I [write](https://sulhanf.substack.com/profile/posts) to make sense of what I'm learning.
 
